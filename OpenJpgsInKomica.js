@@ -33,3 +33,6 @@ for(i=0;i<tarr.length;i++){
  window.open(tarr[i]);
 }
 }
+
+//Reference: 
+// http://mesak.tw/software/589/how-to-change-a-link-into-a-picture-looking-directly
